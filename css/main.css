@@ -245,6 +245,10 @@ footer {
 	
 
 @media (max-width: 576px) {
+	.sticky-header.fix {
+		padding: 34px 13px 33px;
+	} 
+
 	.header-phone {
 		font-size: 18px;
 	}
